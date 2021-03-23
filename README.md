@@ -1,4 +1,8 @@
-### Hi there 👋
+Freelance web designer for front-end applications.
+
+Skills include: SEO, copywriting, content creation, community outreach, online marketing, and responsive web design.
+
+See what I can do for your start-up or service business at the following portfolio website... https://derickmakuto.tech
 
 <!--
 **dmakuto/dmakuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
